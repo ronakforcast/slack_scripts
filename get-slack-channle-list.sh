@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Your Slack API Token
-SLACK_TOKEN="xoxp-468487775955-4980703142902-5770728415143-5a95efd3c80edbcc437aaa73ba6f3b06"
+SLACK_TOKEN="xoxp-468487775955-49wdwdwdwdwdc4dwdwdwdwdw3b06"
 
 
 # Slack API endpoint for listing channels
